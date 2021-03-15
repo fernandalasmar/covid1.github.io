@@ -1,0 +1,866 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+	<title>Saiba como usar Inteligências Artificiais no combate ao Covid-19</title>
+	<style type="text/css">
+
+	@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+	@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+	.ReadMsgBody { width: 100%; background-color: #ffffff; }
+    .ExternalClass { width: 100%; background-color: #ffffff; }
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; }
+	html { width: 100%; }
+	body { -webkit-text-size-adjust: none; -ms-text-size-adjust: none; margin: 0; padding: 0; }
+	table { border-spacing: 0; border-collapse: collapse; }
+	table td { border-collapse: collapse; }
+	.yshortcuts a { border-bottom: none !important; }
+	img { display: block !important; }
+	a { text-decoration: none; color: #e54a39; }
+
+	/* Media Queries */
+
+	@media only screen and (max-width: 640px) {
+		body { width: auto !important; }
+		table[class="table600"] { width: 450px !important; }
+		table[class="table-container"] { width: 90% !important; }
+		table[class="container2-2"] { width: 47% !important; text-align: left !important; }
+		table[class="full-width"] { width: 100% !important; text-align: center !important; }
+		img[class="img-full"] { width: 100% !important; height: auto !important; }
+}
+
+	@media only screen and (max-width: 479px) {
+		body { width: auto !important; }
+		table[class="table600"] { width: 290px !important; }
+		table[class="table-container"] { width: 82% !important; }
+		table[class="container2-2"] { width: 100% !important; text-align: left !important; }
+		table[class="full-width"] { width: 100% !important; text-align: center !important; }
+		img[class="img-full"] { width: 100% !important; }
+}
+
+	.img {
+}
+    </style>
+
+</head>
+
+<body marginwidth="0" marginheight="0" style="margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0; width: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" offset="0" topmargin="0" leftmargin="0">
+	<!-- MAIN A -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<!-- Background -->
+			<td align="center" bgcolor="#333333" background="img/bg-main-a.jpg" style="background-size: cover; background-position: center;">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+					<tr>
+						<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center">
+							<img src="https://raw.githubusercontent.com/fernandalasmar/viziomed/main/viziomed-white-logo.png" alt="logo" width="200" height="60">
+						</td>
+					</tr>
+
+					<tr>
+						<td height="30" style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 36px; font-weight: 400; color: #ffffff; line-height: 44px; letter-spacing: 1px;">
+				         <strong> COMO USAR INTELIGÊNCIAS ARTIFICIAIS NO COMBATE AO COVID-19</strong>&nbsp;&nbsp; </td>
+					</tr>
+
+					<!-- Underline -->
+					<tr>
+						<td align="center">
+							<table width="150" border="0" cellpadding="0" cellspacing="0">
+							<!-- Edit Underline -->
+								<tr>
+									<td height="10" style="border-bottom: 1px solid #ffffff;"></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<!-- End Underline -->
+
+					<tr>
+						<td height="15" style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 18px; font-weight: 400; color: #ffffff; line-height: 22px; letter-spacing: 4px;">
+						  BEM-VINDO A VIZIOMED
+						</td>
+					</tr>
+<tr>
+						<td height="50" style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+					</tr>
+					<tr>
+					<td align="center">
+						<embed src="https://www.youtube.com/embed/zz-pljWHnMs" allowfullscreen="true" width="560" height="315">
+					</td>
+						</tr>
+					<tr>
+						<td height="50" style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+					</tr>
+					<tr>
+							<td align="center" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #FFFFFF; line-height: 24px;">
+						A <strong>Viziomed</strong> proporciona aos seus clientes uma integração de <strong>Inteligências Artificiais</strong> capaz de enxergar aquilo que ainda é indetectável aos olhos humanos. Além de muitos outros benefícios.</td>
+					</tr>
+
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END MAIN A -->
+
+	<!-- FEATURES 3 -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+					<tr>
+						<td height="50" style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td>
+
+							<table class="full-width" width="183" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr>
+									<td align="center">
+										<img src="https://raw.githubusercontent.com/fernandalasmar/viziomed/main/ICONE-ECONOMIA_Prancheta%201.png" alt="icon" width="64" height="64">
+									</td>
+								</tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 14px; font-weight: 400; color: #111; line-height: 24px;">
+								    BAIXO CUSTO&nbsp; </td>
+								</tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td align="center" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+								    Quando comparado aos outros exames, apresenta <strong>baixo custo</strong> de implantação, aquisição e análise.</td>
+								</tr>
+
+							</table>
+
+							<!-- SPACE -->
+								<table class="full-width" width="24" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+										<td width="24" height="30" style="font-size: 30px; line-height: 30px;"></td>
+									</tr>
+								</table>
+							<!-- END SPACE -->
+
+							<table class="full-width" width="183" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr>
+									<td align="center">
+										<img src="https://raw.githubusercontent.com/fernandalasmar/viziomed/main/ICONE%20RAPIDA%20VISUALIZA%C3%87%C3%83O_Prancheta%201.png" alt="icon" width="64" height="64">
+									</td>
+								</tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 14px; font-weight: 400; color: #111; line-height: 24px;">
+								    RÁPIDA VISUALIZAÇÃO&nbsp; </td>
+								</tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td align="center" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+								    Por ser uma imagem 2D muitos achados são identificados<strong> imediatamente. </strong></td>
+								</tr>
+
+							</table>
+
+							<!-- SPACE -->
+								<table class="full-width" width="1" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+										<td width="1" height="30" style="font-size: 30px; line-height: 30px;"></td>
+									</tr>
+								</table>
+							<!-- END SPACE -->
+
+							<table class="full-width" width="183" align="right" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr>
+									<td align="center">
+										<img src="https://raw.githubusercontent.com/fernandalasmar/viziomed/main/ICONE%20LISTA%20DE%20PRIORIDADE_Prancheta%201.png" alt="icon" width="64" height="64">
+									</td>
+								</tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 14px; font-weight: 400; color: #111; line-height: 24px;">
+								    LISTA DE PRIORIDADE&nbsp; </td>
+								</tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td align="center" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+								    Depois da análise da IAé possível ordenar os atendimentos de acordo o risco numa <strong>lista de prioridade</strong>. </td>
+								</tr>
+
+							</table>
+
+						</td>
+					</tr>
+
+					<tr>
+						<td height="50" style="font-size: 1px; line-height: 25px;">&nbsp;</td>
+					</tr>
+
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END FEATURES 3 -->
+
+	<!-- HEADLINE AND CONTENT -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+				  <tr>
+						<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 14px; font-weight: 400; color: #b6b6c0; line-height: 18px;">
+						  AS INTELIGÊNCIAS ARTIFICIAIS
+					</td>
+					</tr>
+
+					<tr>
+						<td height="10" style="font-size: 1px; line-height: 10px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 24px; font-weight: 400; color: #111; letter-spacing: 2px; line-height: 28px;">
+					    TE FAZEM ENXERGAR ALÉM&nbsp; </td>
+					</tr>
+
+					<tr>
+						<td height="30" style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+					    Com a integração de Inteligências Artificiais da Viziomed, você não precisa laudar exames com diagnósticos inconclusivos ou duvidosos. Nem passar horas para identificar a raíz do problema do seu pacientes. As IA's da viziomed apontam com facilidade aonde encontra-se o problema.&nbsp; &nbsp; &nbsp;&nbsp; </td>
+					</tr>
+
+					<tr>
+						<td height="50" style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+					</tr>
+
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END HEADLINE AND CONTENT -->
+
+	<!-- QUOTE -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<!-- Background -->
+			<td align="center" bgcolor="#f5f5f5">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+					<tr>
+						<td height="75" style="font-size: 1px; line-height: 75px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 24px; font-weight: 400; color: #111; letter-spacing: 2px; line-height: 28px;">
+						  O QUE TE AJUDAMOS A DETECTAR?
+						</td>
+					</tr>
+
+					<tr>
+						<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center">
+							<img src="http://covid19raiox.com.br/img/cxr3.jpg" alt="quote" width="250" height="250">
+						</td>
+					</tr>
+
+					<tr>
+						<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 14px; font-weight: 700; color: #111; letter-spacing: 2px; line-height: 18px;">
+					    SÃO DIVERSOS ACHADOS, COMO:&nbsp;&nbsp; </td>
+					</tr>
+
+					<tr>
+						<td height="10" style="font-size: 1px; line-height: 10px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888; letter-spacing: 2px; line-height: 18px;">
+					    NÓDULOS | CALCIFICAÇÃO | PNEUMOTÓRAX | CARDIOMEGALIA | ALARGAMENTO DO MEDIASTINO | CONSOLIDAÇÃO | FIBROSE | PNEUMOPERITÔNIO |&nbsp;DERRAME PLEURAL | ATELECTASIA</td>
+					</tr>									
+
+					<tr>
+						<td height="30" style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END QUOTE -->
+
+	
+	<!-- SEPERATOR A -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<!-- Background -->
+			<td align="center" bgcolor="#f5f5f5" background="img/bg-sep-a.jpg" style="background-size: cover; background-position: center;">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+					<tr>
+						<td height="75" style="font-size: 1px; line-height: 75px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 24px; font-weight: 400; color: #000000; letter-spacing: 2px; line-height: 24px;">
+					    ESCOLHA ESTAR ENTRE OS MELHORES&nbsp; </td>
+					</tr>
+
+					<tr>
+						<td height="15" style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" bgcolor="#ffffff" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 28px; letter-spacing: 2px;">
+					    ESCOLHA ESTAR COM A VIZIOMED&nbsp; &nbsp;&nbsp; </td>
+					</tr>
+
+					<tr>
+						<td height="75" style="font-size: 1px; line-height: 75px;">&nbsp;</td>
+					</tr>
+
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END SEPERATOR A -->
+
+	<!-- ARTICLE 3 -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+					<tr>
+						<td height="50" style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td>
+
+							<table class="full-width" width="183" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr> </tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr> </tr>
+
+								<tr> </tr>
+
+								<tr> </tr>
+
+								<tr> </tr>
+
+								<tr> </tr>
+
+							</table>
+
+							<!-- SPACE -->
+								<table class="full-width" width="24" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+										<td width="24" height="30" style="font-size: 30px; line-height: 30px;"></td>
+									</tr>
+								</table>
+							<!-- END SPACE -->
+
+							<table class="full-width" width="540" align="CENTER" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr> </tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;"><img class="img-full" src="http://covid19raiox.com.br/img/covid-19c.jpg" alt="img" width="540" height="315"></td>
+								</tr>
+
+								<tr>
+									<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 20px; font-weight: 700; color: #111; letter-spacing: 2px; line-height: 24px;">
+										CASO REAL
+								  </td>
+								</tr>
+
+								<tr>
+									<td height="30" style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td align="center" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+										Caso de pneumonia despercebido por muitos radiologistas ao analisar somente o RXT, mas bem evidente no TC. Observe que a IA detectou exatamente o local da lesão no RXT. 
+									</td>
+								</tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr> </tr>
+
+							</table>
+
+							<!-- SPACE -->
+								<table class="full-width" width="1" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+										<td width="1" height="30" style="font-size: 30px; line-height: 30px;"></td>
+									</tr>
+								</table>
+							<!-- END SPACE -->
+
+							<table class="full-width" width="183" align="right" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr>
+									<td align="center">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr> </tr>
+
+								<tr> </tr>
+
+								<tr> </tr>
+
+								<tr> </tr>
+
+							</table>
+
+						</td>
+					</tr>
+
+					<tr> </tr>
+
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END ARTICLE 3 -->
+	<!-- SEPERATOR B -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<!-- Background -->
+			<td align="center" bgcolor="#333333" background="img/bg-sep-b.jpg" style="background-size: cover; background-position: center;">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+					<tr> </tr>
+
+					<tr> </tr>
+
+					<!-- Underline -->
+					<tr>
+						<td align="center">
+							<table width="150" border="0" cellpadding="0" cellspacing="0">
+							<!-- Edit Underline -->
+								<tr> </tr>
+							</table>
+						</td>
+					</tr>
+					<!-- End Underline -->
+
+					<tr>
+						<td height="30" style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 16px;">
+					      <p><em> “É difícil pensar em uma grande indústria que não será transformada pela inteligência artificial. Isso inclui saúde, educação, meios de transporte, varejo, comunicações e agricultura. Existem caminhos surpreendentemente claros para a IA fazer uma grande diferença em todas essas indústrias” </em></p>
+					      <p><strong>Andrew Ng.&nbsp;</strong></p>
+					      <p>Cientista da Computação e Líder Global em IA&nbsp;</p>
+				        				  <tr>
+						<td height="10" style="border-bottom: 1px solid #ffffff;"></td>
+					</tr>
+					<tr>
+						<td height="75" style="font-size: 1px; line-height: 75px;">&nbsp;</td>
+					</tr>
+
+				</td>
+		</tr>
+	</table>
+	<!-- END SEPERATOR B -->
+
+	<!-- FEATURES LIST -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td align="center" bgcolor="#ffffff">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+					<tr>
+						<td height="50" style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td>
+
+							<table class="full-width" width="80" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+								<tr>
+									<td align="center">
+										<img src="https://raw.githubusercontent.com/fernandalasmar/viziomed/main/ICONE%20INTEGRA%C3%87%C3%83O-01.png" alt="icon" width="80" height="80">
+									</td>
+								</tr>
+							</table>
+
+							<!-- SPACE -->
+								<table class="full-width" width="24" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+										<td width="24" height="30" style="font-size: 30px; line-height: 30px;"></td>
+									</tr>
+								</table>
+							<!-- END SPACE -->
+
+							<table class="full-width" width="490" align="right" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr>
+									<td style="font-family: 'Montserrat', sans-serif; font-size: 20px; font-weight: 700; color: #111; letter-spacing: 1px; line-height: 24px;">
+									  INTEGRAÇÃO
+									</td>
+								</tr>
+
+								<tr>
+									<td height="10" style="font-size: 1px; line-height: 10px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+									  Todas as soluções adaptadas e disponibilizadas dentro do fluxo de trabalho dos hospitais e clínicas
+									</td>
+								</tr>
+
+							</table>
+
+						</td>
+					</tr>
+
+					<tr>
+						<td height="30" style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td>
+
+							<table class="full-width" width="80" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+								<tr>
+									<td align="center">
+										<img src="https://raw.githubusercontent.com/fernandalasmar/viziomed/main/ICONE%20SUPPORT.png" alt="icon" width="80" height="80">
+									</td>
+								</tr>
+							</table>
+
+							<!-- SPACE -->
+								<table class="full-width" width="24" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+										<td width="24" height="30" style="font-size: 30px; line-height: 30px;"></td>
+									</tr>
+								</table>
+							<!-- END SPACE -->
+
+							<table class="full-width" width="490" align="right" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr>
+									<td style="font-family: 'Montserrat', sans-serif; font-size: 20px; font-weight: 700; color: #111; letter-spacing: 1px; line-height: 24px;">
+									  SUPORTE
+									</td>
+								</tr>
+
+								<tr>
+									<td height="10" style="font-size: 1px; line-height: 10px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+									  Nossa equipe está a disposição 24 horas para realizar suporte técnico ou agendar orientação para o uso das soluções
+									</td>
+								</tr>
+
+							</table>
+
+						</td>
+					</tr>
+
+					<tr>
+						<td height="30" style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td>
+
+							<table class="full-width" width="80" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+								<tr>
+									<td align="center">
+										<img src="https://raw.githubusercontent.com/fernandalasmar/viziomed/main/ICONE%20LGPD.png" alt="icon" width="80" height="80">
+									</td>
+								</tr>
+							</table>
+
+							<!-- SPACE -->
+								<table class="full-width" width="24" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+										<td width="24" height="30" style="font-size: 30px; line-height: 30px;"></td>
+									</tr>
+								</table>
+							<!-- END SPACE -->
+
+							<table class="full-width" width="490" align="right" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr>
+									<td style="font-family: 'Montserrat', sans-serif; font-size: 20px; font-weight: 700; color: #111; letter-spacing: 1px; line-height: 24px;">
+									  PROTEÇÃO DOS DADOS
+									</td>
+								</tr>
+
+								<tr>
+									<td height="10" style="font-size: 1px; line-height: 10px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+									  Todos os dados pessoais e sensíveis são tratados para garantir o cumprimento da Lei Geral de Proteção de Dados (LGPD)
+									</td>
+								</tr>
+
+							</table>
+
+						</td>
+					</tr>
+
+					<tr>
+						<td height="50" style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+					</tr>
+
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END FEATURES LIST -->
+
+	<!-- SEPERATOR C -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<!-- Background -->
+			<td align="center" bgcolor="#333333" background="img/bg-sep-c.jpg" style="background-size: cover; background-position: center;">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+					<tr>
+						<td height="75" style="font-size: 1px; line-height: 75px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Montserrat', sans-serif; font-size: 20px; font-weight: 700; color: #ffffff; letter-spacing: 2px; line-height: 24px;">
+					    ENTRE EM CONTATO AGORA&nbsp; </td>
+					</tr>
+
+					<tr>
+						<td height="10" style="font-size: 1px; line-height: 10px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+					    E REVOLUCIONE&nbsp; A VISÃO DO SEU ESTABELECIMENTO&nbsp; &nbsp;&nbsp; </td>
+					</tr>
+
+					<tr>
+						<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td align="center">
+   						  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    						  <tbody>
+    						    <tr>
+    						      <td align="center" height="38" style="font-family: 'Montserrat', sans-serif; font-size: 14px; font-weight: 400; color: #11D311; line-height: 24px; padding-left: 25px; padding-right: 25px; border: 1px solid #ffffff;"><a href=" https://api.whatsapp.com/send?phone=+5581999257055&text=Olá!%20Cheguei%20através%20do%20e-mail%20e%20gostaria%20de%20saber%20mais.">EU QUERO A VIZIOMED </a></td>
+  						      </tr>
+  						    </tbody>
+					    </table></td>
+    				</tr>
+
+					<tr>
+						<td height="75" style="font-size: 1px; line-height: 75px;">&nbsp;</td>
+					</tr>
+
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END SEPERATOR C -->
+
+	<!-- PREFOOTER -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<!-- Background -->
+			<td align="center" bgcolor="#141414">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+					<tr>
+						<td height="50" style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+					</tr>
+
+					<tr>
+						<td>
+
+							<table class="full-width" width="287" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr>
+									<td align="left" style="font-family: 'Montserrat', sans-serif; font-size: 20px; font-weight: 400; color: #ffffff; line-height: 24px;">
+									  Sobre Nós
+									</td>
+								</tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td align="left" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+								    A Viziomed é uma StartUp do grupo das HEALTHTECHS que oferece uma integração de Inteligências Artificiais em exames de imagem, promovendo economia, saúde, bem-estar e inovação.&nbsp; </td>
+								</tr>
+
+								<tr>
+									<td height="24" style="font-size: 1px; line-height: 24px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td align="left" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #e54a39; line-height: 24px;">
+										<a href="#" style="text-decoration: none; color: #e54a39;">Unsubscribe</a>
+									</td>
+								</tr>
+
+							</table>
+
+							<!-- SPACE -->
+								<table class="full-width" width="1" align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+									<tr>
+										<td width="1" height="30" style="font-size: 30px; line-height: 30px;"></td>
+									</tr>
+								</table>
+							<!-- END SPACE -->
+
+							<table class="full-width" width="287" align="right" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+
+								<tr>
+									<td align="left" style="font-family: 'Montserrat', sans-serif; font-size: 20px; font-weight: 400; color: #ffffff; line-height: 24px;">
+									  Entre em Contato
+									</td>
+								</tr>
+
+								<tr>
+									<td height="20" style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+								</tr>
+
+								<tr>
+									<td align="left" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #ffffff; line-height: 24px;">
+									  Endereço:
+									</td>
+								</tr>
+
+								<tr>
+									<td align="left" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+									  Rua de Alfândega 35 Recife - PE
+									</td>
+								</tr>
+
+								<tr>
+									<td align="left" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #ffffff; line-height: 24px;">
+									  Telefone:
+									</td>
+								</tr>
+
+								<tr>
+									<td align="left" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+									  +55 81 99925.7055
+									</td>
+								</tr>
+
+								<tr>
+									<td align="left" style="font-family: 'Open Sans', sans-serif; font-size: 13px; font-weight: 400; color: #888896; line-height: 24px;">
+									  contato@viziomed.com.br
+									</td>
+								</tr>
+
+							</table>
+
+						</td>
+					</tr>
+
+					<tr>
+						<td height="50" style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+					</tr>
+
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END PREFOOTER -->
+
+	<!-- FOOTER -->
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<!-- Background -->
+			<td align="center" bgcolor="#111111">
+				<table class="table600" width="600" border="0" cellpadding="0" cellspacing="0">
+
+					<tr>
+						<td height="10" style="font-size: 1px; line-height: 10px;">&nbsp;</td>
+					</tr>
+
+				
+						<tr>
+						<td height="10" style="font-size: 1px; line-height: 10px;">&nbsp;</td>
+					</tr>
+
+				</table>
+			</td>
+		</tr>
+	</table>
+	<!-- END FOOTER -->
+		</body>				
+</html>
